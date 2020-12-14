@@ -12,6 +12,7 @@ Technologies which I use:
 - Bash
 - JS (NodeJS)
 - HTML, CSS
+- GIT
 
 ### 📫 How to reach me
 [![Gmail Badge](https://img.shields.io/badge/-alexandr.kizilow@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:cherkalexander@gmail.com)](mailto:alexandr.kizilow@gmail.com) 
