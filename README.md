@@ -1,16 +1,23 @@
 ### Hi there 👋
 
-<!--
-**Elephmoon/elephmoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Alexandr Kizilow. I'm from Russia, Kursk.  
+I am currently working on an Internet of Things project based on the [LoraWAN protocol](https://lora-alliance.org/). 
 
-Here are some ideas to get you started:
+Technologies which I use:
+- Go
+- SQL (PostgreSQL)
+- Docker
+- docker-compose
+- Linux
+- Bash
+- JS (NodeJS)
+- HTML, CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 How to reach me
+[![Gmail Badge](https://img.shields.io/badge/-alexandr.kizilow@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:cherkalexander@gmail.com)](mailto:alexandr.kizilow@gmail.com) 
+[![Github Badge](https://img.shields.io/badge/-elephmoon-grey?style=flat&logo=github&logoColor=white&link=https://github.com/elephmoon/)](https://github.com/elephmoon/) 
+[![Telegram Badge](https://img.shields.io/badge/-elephmoon-grey?style=flat&logo=telegram&logoColor=white&link=https://t.me/Elephmoon)](https://t.me/Elephmoon) 
+![Twitter Badge](https://img.shields.io/twitter/follow/elephmoon?style=plastic)  
+
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=elephmoon&show_icons=true)  
