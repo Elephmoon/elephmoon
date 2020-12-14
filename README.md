@@ -5,6 +5,7 @@ I am currently working on an Internet of Things project based on the [LoraWAN pr
 
 Technologies which I use:
 - Go
+- gRPC
 - SQL (PostgreSQL)
 - Docker
 - docker-compose
