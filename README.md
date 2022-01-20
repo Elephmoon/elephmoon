@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 My name is Alexandr Kizilow. I'm from Russia, Kursk.  
-I'm now working on backend for [SoterAnalytics](https://soteranalytics.com/) company  
+<s>backend for [SoterAnalytics](https://soteranalytics.com/) company</s>  
 <s>backend for Internet of Things project based on the [LoraWAN protocol](https://lora-alliance.org/)</s>  
 <s>frontend for [InstaPay](https://www.getinstapay.com/) company</s>
 
