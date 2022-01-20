@@ -18,10 +18,10 @@ Technologies which I use:
 - GIT
 
 ### 📫 How to reach me
-[![Gmail Badge](https://img.shields.io/badge/-alexandr.kizilow@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:cherkalexander@gmail.com)](mailto:alexandr.kizilow@gmail.com) 
-[![Github Badge](https://img.shields.io/badge/-elephmoon-grey?style=flat&logo=github&logoColor=white&link=https://github.com/elephmoon/)](https://github.com/elephmoon/) 
+[![Protonmail Badge](https://img.shields.io/badge/-alexandr.kizilov@pm.me-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white&link=mailto:alexandr.kizilov@pm.me)](mailto:alexandr.kizilov@pm.me)
+[![Github Badge](https://img.shields.io/badge/-elephmoon-grey?style=flat&logo=github&logoColor=white&link=https://github.com/elephmoon/)](https://github.com/elephmoon/)
 [![Telegram Badge](https://img.shields.io/badge/-elephmoon-grey?style=flat&logo=telegram&logoColor=white&link=https://t.me/Elephmoon)](https://t.me/Elephmoon) 
-![Twitter Badge](https://img.shields.io/twitter/follow/elephmoon?style=plastic)  
+![Twitter Badge](https://img.shields.io/twitter/follow/elephmoon?style=plastic)
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=elephmoon&show_icons=true)  
