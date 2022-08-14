@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 My name is Alexandr Kizilow. I'm from Russia, Kursk.  
+backend for [Ozon Fintech](https://job.ozon.ru/fintech/) company  
 <s>backend for [SoterAnalytics](https://soteranalytics.com/) company</s>  
 <s>backend for Internet of Things project based on the [LoraWAN protocol](https://lora-alliance.org/)</s>  
 <s>frontend for [InstaPay](https://www.getinstapay.com/) company</s>
@@ -8,6 +9,7 @@ My name is Alexandr Kizilow. I'm from Russia, Kursk.
 Technologies which I use:
 - Go
 - gRPC
+- Kafka
 - SQL (PostgreSQL)
 - Docker
 - docker-compose
